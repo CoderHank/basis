@@ -1,0 +1,4 @@
+2015-03-19 17:27:28 [ERROR][App.testHello(App.java:16)] - 日志输出
+2015-03-19 17:29:34 [DEBUG][App.testHello(App.java:16)] - 日志输出
+2015-03-19 17:29:44 [INFO][App.testHello(App.java:16)] - 日志输出
+2015-03-19 17:30:08 [INFO][App.testHello(App.java:16)] - 日志输出
